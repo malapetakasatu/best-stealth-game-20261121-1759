@@ -1,7 +1,8 @@
 # SHADOWCLOAK: The Obsidian Archive
 
-[![makefun](https://make.fun/bounty/best-stealth-game-20261121-1759/badge.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
-[![makefun-submit](https://make.fun/bounty/best-stealth-game-20261121-1759/submit-badge.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/malapetakasatu/best-stealth-game-20261121-1759/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/malapetakasatu/best-stealth-game-20261121-1759/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A pure tactical top-down stealth heist browser game built for the [make.fun](https://make.fun/bounty/best-stealth-game-20261121-1759) competition: **"Make the best stealth game"**.
